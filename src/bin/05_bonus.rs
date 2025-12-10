@@ -1,4 +1,4 @@
-// cargo run --bin 03_borrowing
+// cargo run --bin 05_bonus
 
 fn main() {
     let mut s = String::from("hello");
